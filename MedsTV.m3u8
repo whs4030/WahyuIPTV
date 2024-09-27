@@ -1,1 +1,15 @@
+$ youtube-dl -F https://m.youtube.com/c/MediaSunnahAceh/live
+[youtube:live] UCakgsb0w7QB0VHdnCc-OVEA: Downloading webpage
+[youtube] nX0sg1Gp-1w: Downloading webpage
+[youtube] nX0sg1Gp-1w: Downloading m3u8 information
+[youtube] nX0sg1Gp-1w: Downloading MPD manifest
+[info] Available formats for nX0sg1Gp-1w:
+format code  extension  resolution note
+91           mp4        256x144    HLS  197k , avc1.42c00b, 30.0fps, mp4a.40.5@ 48k
+92           mp4        426x240    HLS  338k , avc1.4d4015, 30.0fps, mp4a.40.5@ 48k
+93           mp4        640x360    HLS  829k , avc1.4d401e, 30.0fps, mp4a.40.2@128k
+94           mp4        854x480    HLS 1380k , avc1.4d401f, 30.0fps, mp4a.40.2@128k
+95           mp4        1280x720   HLS 2593k , avc1.4d401f, 30.0fps, mp4a.40.2@256k
+96           mp4        1920x1080  HLS 4715k , avc1.640028, 30.0fps, mp4a.40.2@256k (best)
+$ youtube-dl -g -f91 https://m.youtube.com/c/MediaSunnahAceh/live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727485893/ei/ZQP3ZtePEZi0kucP3Yu1oQo/ip/151.197.53.124/id/I8n0XivXFOQ.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257029/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxVJ08oNC1mPjFpLh6yydUu-KGIYb1fgN1lVAxwVPAKp0Hs6jc5yLwZkZ1KQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKHCVIW9AK5ubb9TFgPVE9_0O9p_8jSgqVpsIQqHOl24AiBPes1eiZCKXMHtaVXI_Dpq2XKPeltfie8y6FH8dEk3vA%3D%3D/file/index.m3u8
