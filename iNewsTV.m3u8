@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 group-title="02. News TV" tvg-id="iNews" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/01/23/3514719231.png",iNews
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
