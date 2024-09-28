@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=I8n0XivXFOQ
-#EXT-X-ENDLIST
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1727550873/ei/OQH4ZsDcGK_OjuMP-o6FkQw/ip/125.160.230.42/id/I8n0XivXFOQ.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-2uuxa3vh-jb3ly.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/54MbxZRvYnkm0z2SOGwzVY8UYGKxwPAeBzRzoi2hX3bdM1RxIcfc9KfqDIU92oLYH5KbxS5rKt7C/vprv/1/playlist_type/DVR/initcwndbps/747500/mh/8e/mm/44/mn/sn-2uuxa3vh-jb3ly/ms/lva/mv/m/mvi/1/pl/20/dover/11/pacing/0/keepalive/yes/fexp/51299152/mt/1727529156/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJdlKyzc15EE8nieItR6oW5B78hWP1z32M3fZS9mzd_JAiEA0AHzkwRYPuR3LA7zQ7a84hG9Ux5L_VM7whm-9y5TQ5s%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABPmVW0wRAIgPEpcIxYnCYk7lB7SjK9jPA8eypiK_sxPKXBxY-tF0F8CIA2MbTbDUDGAQ6Y8cIrH8e64ynxNlhIpwZM84tO-3XeG/playlist/index.m3u8
