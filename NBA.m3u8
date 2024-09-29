@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
