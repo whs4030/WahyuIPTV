@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63499
+#EXT-X-ENDLIST
