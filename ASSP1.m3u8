@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-hhttp://m1-max.dns-speedy.com:80/mariusbuzila2/A1CC5C/556245
-#EXT-X-ENDLIST
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://m1-max.dns-speedy.com:80/mariusbuzila2/A1CC5C/556245
