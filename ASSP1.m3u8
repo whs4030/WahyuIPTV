@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://m1-max.dns-speedy.com:80/live/mariusbuzila2/A1CC5C/556245.m3u8
