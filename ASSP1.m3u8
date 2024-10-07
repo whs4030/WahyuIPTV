@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://m1-max.dns-speedy.com:80/mariusbuzila2/A1CC5C/556245
+#EXT-X-TARGETDURATION:1
+#EXTINF:1,
+http://m1-max.dns-speedy.com:80/live/mariusbuzila2/A1CC5C/556245.m3u8
