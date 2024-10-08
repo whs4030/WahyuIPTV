@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:362
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.000000,
+http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47335&extension=ts&play_token=M2WtBeca1D
+#EXTINF:9.999744,
+http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47335&extension=ts&play_token=M2WtBeca1D
+#EXTINF:10.000000,
+http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47335&extension=ts&play_token=M2WtBeca1D
+#EXTINF:10.000011,
+http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47335&extension=ts&play_token=M2WtBeca1D
+#EXTINF:10.000011,
+http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47335&extension=ts&play_token=M2WtBeca1D
+#EXTINF:10.000100,
+http://darktv.eu:80/play/live.php?mac=00:1A:79:72:70:19&stream=47335&extension=ts&play_token=M2WtBeca1D
