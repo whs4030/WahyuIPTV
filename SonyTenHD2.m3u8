@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1021
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+http://watchindia.net:8880/live/32031/33285/1757.ts
+#EXTINF:10.000000,
+http://watchindia.net:8880/live/32031/33285/1757.ts
+#EXTINF:10.000000,
+http://watchindia.net:8880/live/32031/33285/1757.ts
+#EXTINF:10.000000,
+http://watchindia.net:8880/live/32031/33285/1757.ts
+#EXTINF:10.000000,
+http://watchindia.net:8880/live/32031/33285/1757.ts
+#EXTINF:10.000000,
+http://watchindia.net:8880/live/32031/33285/1757.ts
