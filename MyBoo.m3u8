@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:4
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+http://newlife3.wanicelife.com:8880/live/D12m2806/32723612/1697.ts
+#EXTINF:10.000000,
+http://newlife3.wanicelife.com:8880/live/D12m2806/32723612/1697.ts
+#EXTINF:10.000000,
+http://newlife3.wanicelife.com:8880/live/D12m2806/32723612/1697.ts
+#EXTINF:10.000000,
+http://newlife3.wanicelife.com:8880/live/D12m2806/32723612/1697.ts
+#EXTINF:10.000000,
+http://newlife3.wanicelife.com:8880/live/D12m2806/32723612/1697.ts
+#EXTINF:10.000000,
+http://newlife3.wanicelife.com:8880/live/D12m2806/32723612/1697.ts
