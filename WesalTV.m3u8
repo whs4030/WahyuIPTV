@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:32883
+#EXTINF:2.000000,
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv000032883.ts
+#EXTINF:2.040000,
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv000032884.ts
+#EXTINF:2.000000,
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv000032885.ts
+#EXTINF:2.000000,
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv000032886.ts
+#EXTINF:2.000000,
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv000032887.ts
