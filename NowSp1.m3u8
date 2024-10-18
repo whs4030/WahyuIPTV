@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.071000,
+http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/425329.ts
