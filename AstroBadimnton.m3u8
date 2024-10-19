@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:35:62:83&stream=1379224&extension=ts&play_token=phVP4quHAv
+#EXT-X-ENDLIST
