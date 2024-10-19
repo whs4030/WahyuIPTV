@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:10&stream=56621&extension=ts&play_token=ocrffbePrv&sn2=062014N015365
+#EXT-X-ENDLIST
