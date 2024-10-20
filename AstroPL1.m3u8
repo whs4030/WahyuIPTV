@@ -4,5 +4,5 @@
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://b1g.ooo:80/93736/93736/709263
+http://b1g.ooo:80/live/93736/93736/709263.ts
 #EXT-X-ENDLIST
