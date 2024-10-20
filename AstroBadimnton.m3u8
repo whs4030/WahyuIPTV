@@ -4,5 +4,5 @@
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:35:62:83&stream=1379224&extension=ts&play_token=phVP4quHAv
+http://b1g.ooo:80/live/308442/308442/709262.ts
 #EXT-X-ENDLIST
