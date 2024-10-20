@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:80
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:12
+#EXTINF:9.600000,
+http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/655068.ts
+#EXTINF:11.520000,
+http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/655068.ts
+#EXTINF:9.600000,
+http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/655068.ts
+#EXTINF:9.600000,
+http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/655068.ts
+#EXTINF:9.600000,
+http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/655068.ts
+#EXTINF:9.600000,
+http://defaultgen.com:3050/live/diana.rogers47@yahoo.com/pUnv52tkuM/655068.ts
