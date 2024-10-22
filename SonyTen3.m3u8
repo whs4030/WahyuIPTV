@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://crystalott.net:80/BE2ZKMLVXR/I6WSJJXXZ1/2747
-#EXT-X-ENDLIST
+#EXT-X-VERSION:3
+#EXTINF:40000.0
+http://iptvtree.net:8080/live/cinepk2021/F37CXJnaEDN203udnch/56191.ts
