@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/115328.ts
+#EXT-X-ENDLIST
