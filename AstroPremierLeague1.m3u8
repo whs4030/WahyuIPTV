@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:40000.0
-http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/146068.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:D6:5F:B6&stream=918986&extension=m3u8
