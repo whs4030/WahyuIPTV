@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:40000.0
-http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/157558.ts
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:1
+#EXTINF:1
+http://b1g.pw:80/family/family/57503
