@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:201
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:12
+#EXTINF:11.711700,
+http://defaultgen.com:3050/live/gailstamps.gs@gmail.com/htYnUZkxEB/601455.ts
+#EXTINF:11.711700,
+http://defaultgen.com:3050/live/gailstamps.gs@gmail.com/htYnUZkxEB/601455.ts
+#EXTINF:7.807800,
+http://defaultgen.com:3050/live/gailstamps.gs@gmail.com/htYnUZkxEB/601455.ts
+#EXTINF:11.711700,
+http://defaultgen.com:3050/live/gailstamps.gs@gmail.com/htYnUZkxEB/601455.ts
+#EXTINF:7.807800,
+http://defaultgen.com:3050/live/gailstamps.gs@gmail.com/htYnUZkxEB/601455.ts
+#EXTINF:11.711700,
+http://defaultgen.com:3050/live/gailstamps.gs@gmail.com/htYnUZkxEB/601455.ts
