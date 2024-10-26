@@ -1,4 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:40000.0
-http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/304198.ts
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://mag.ottcst.com:80/enK4u6wVPLttTvQ/8YfZXllmRa/470909?play_token=9IhDKsQrRd
