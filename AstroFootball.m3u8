@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:1
-#EXTINF:1
-http://b1g.pw:80/12312/12312/709257
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://unity-gaming.net:8080/testforflorin/h3jR9MKh/11494
