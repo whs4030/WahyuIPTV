@@ -1,13 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.040000,
-http://toll.oxoplus1.com:8080/live/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11825880.ts
-#EXTINF:10.000000,
-http://toll.oxoplus1.com:8080/live/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11825880.ts
-#EXTINF:10.000000,
-http://toll.oxoplus1.com:8080/live/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11825880.ts
-#EXTINF:10.000000,
-http://toll.oxoplus1.com:8080/live/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11825880.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4389000,AVERAGE-BANDWIDTH=4123000
+http://119.156.26.155:8000/play/a06b/74075792.m3u8
