@@ -1,8 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
+http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/9334/index.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/175860.ts
-#EXT-X-ENDLIST
