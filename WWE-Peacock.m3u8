@@ -1,7 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:155
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:13
-#EXTINF:11.278133,
-http://unity-gaming.net:8080/live/testforflorin/h3jR9MKh/14371.ts
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=300000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,http://hdhd.tk:80/1robinhealani@gmail.com/d6ggb3sxu/352037
