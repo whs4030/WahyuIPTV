@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1599
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.011000,
-http://unity-gaming.net:8080/live/testforflorin/h3jR9MKh/3145.ts
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=30000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://live.hkdvb.com/hls/live/621.m3u8?token=381762384516395
