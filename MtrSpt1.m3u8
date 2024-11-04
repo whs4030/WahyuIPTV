@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=30000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/bdfdcd50-9a50-11ef-a17c-828cc7c2f756/184/1920x1080_4944491/index.m3u8
