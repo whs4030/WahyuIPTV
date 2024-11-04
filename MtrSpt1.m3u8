@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="caption_1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="7db19147-9a53-11ef-83f9-1ebd08a46bdd/15/subs-caption-1-eng/subtitle.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4944491,AVERAGE-BANDWIDTH=4760800,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,SUBTITLES="subs",FRAME-RATE=29.970
 https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/7db19147-9a53-11ef-83f9-1ebd08a46bdd/15/1920x1080_4944491/index.m3u8
