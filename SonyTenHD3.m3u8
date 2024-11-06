@@ -1,4 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:40000.0
-http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/56191.ts
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7238&deviceMac=00:1A:79:22:59:72
