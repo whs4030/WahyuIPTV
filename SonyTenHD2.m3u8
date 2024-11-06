@@ -1,11 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.040000,
-http://toll.oxoplus1.com:8080/live/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11825791.ts
-#EXTINF:10.000000,
-http://toll.oxoplus1.com:8080/live/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11825791.ts
-#EXTINF:10.000000,
-http://toll.oxoplus1.com:8080/live/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11825791.ts
+#EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7238&deviceMac=00:1A:79:22:59:72
