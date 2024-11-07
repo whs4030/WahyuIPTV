@@ -4,5 +4,5 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXT-X-TARGETDURATION:7
 #EXT-X-START:TIME-OFFSET=0
-#EXTINF:6.000,
+#EXTINF:0,
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
