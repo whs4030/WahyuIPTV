@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:456
 #EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=189665&extension=ts
+#EXT-X-TARGETDURATION:0
+#EXTINF:0,
+http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=189665&extension=ts&play_token=tzDpUEiW9o
