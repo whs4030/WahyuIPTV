@@ -1,5 +1,13 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
+#EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:1,
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7238&deviceMac=00:1A:79:22:59:72
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.160000,
+http://filex.tv:8080/live/Multicity/1234/52085.ts
+#EXTINF:10.600000,
+http://filex.tv:8080/live/Multicity/1234/52085.ts
+#EXTINF:10.120000,
+http://filex.tv:8080/live/Multicity/1234/52085.ts
+#EXTINF:9.320000,
+http://filex.tv:8080/live/Multicity/1234/52085.ts
