@@ -1,8 +1,8 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=2500
 #EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://fixtv.shop:888/live/Lyana/Lyana/47.ts
+#EXTINF:0,
+http://fixtv.shop:888/Lyana/Lyana/47
 #EXT-X-ENDLIST
