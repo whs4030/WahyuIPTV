@@ -1,5 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
-http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/9334/index.m3u8
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/175860.ts
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:network-caching=30000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:0,
+http://doubleclicktv.live:80/70376812/52663544/276906
+#EXT-X-ENDLIST
