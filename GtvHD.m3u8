@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:4142
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.239911,
+https://mantul.biz.id/live/aruba/aruba/8932.ts
+#EXTINF:9.759922,
+https://mantul.biz.id/live/aruba/aruba/8932.ts
+#EXTINF:9.759911,
+https://mantul.biz.id/live/aruba/aruba/8932.ts
+#EXTINF:9.999922,
+https://mantul.biz.id/live/aruba/aruba/8932.ts
+#EXTINF:9.879911,
+https://mantul.biz.id/live/aruba/aruba/8932.ts
+#EXTINF:9.879922,
+https://mantul.biz.id/live/aruba/aruba/8932.ts
