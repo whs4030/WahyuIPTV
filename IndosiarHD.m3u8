@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:0
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://aflaxtv.xyz:8080/F25093/29838750/162138
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=189665&extension=ts&play_token=22H08SjYf7
