@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXT-X-ENDLIST
+http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/16633.ts
