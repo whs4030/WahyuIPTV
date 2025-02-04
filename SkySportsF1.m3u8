@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:2
-#EXTVLCOPT:network-caching=2500
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://doubleclicktv.live:80/live/70376812/52663544/276927.ts
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:6.000000,
+http://myserver.myphuket.net:25461/live/test2/test2/68.ts
